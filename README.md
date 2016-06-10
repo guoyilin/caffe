@@ -1,5 +1,5 @@
 # Caffe
-1. Implement triplet loss. see FaceNet paper.
+1. Implement triplet loss of facenet paper. Now this project is not finished, it needs to add l2 normalization later.
 
 
 
