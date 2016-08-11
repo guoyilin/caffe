@@ -1,3 +1,4 @@
+This code is deprecated, please use my friend's code: https://github.com/tyandzx/caffe. This code support l2 norm. 
 # Caffe
 1. Implement triplet loss of facenet paper. Now this project is not finished, it needs to add l2 normalization later.
 
